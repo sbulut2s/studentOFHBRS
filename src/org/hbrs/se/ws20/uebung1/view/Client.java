@@ -8,7 +8,8 @@ class Client {
 	public void display( int aNumber ){
 		// In dieser Methode soll die Methode translateNumber 
 		// mit dem übergegebenen Wert der Variable aNumber 
-		// aufgerufen werden
+		// aufgerufen werden.
+		// Strenge Implementierung gegen das Interface Translator gewuenscht!
 
 		System.out.println("Das Ergebnis der Berechnung: " +
 				"[das Ergebnis an dieser Stelle]" );
