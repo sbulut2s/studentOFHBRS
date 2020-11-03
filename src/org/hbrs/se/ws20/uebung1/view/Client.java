@@ -1,7 +1,6 @@
 package org.hbrs.se.ws20.uebung1.view;
 
 class Client {
-	
 
 	/*
 	 * Methode zur Ausgabe einer Zahl auf der Console
